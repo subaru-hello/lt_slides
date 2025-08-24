@@ -1,0 +1,34 @@
+.claude/
+
+# Deck related
+.deck-*
+*.deck.json
+*.deck.yaml
+
+# Google Slides metadata
+.slides-id
+.presentation-id
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Log files
+*.log
+
+# Build artifacts
+build/
+dist/
+out/
